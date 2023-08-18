@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/12152626/how-can-i-remove-the-extension-of-a-filename-in-a-shell-script/12152997
+
+https://linuxize.com/post/bash-write-to-file/
+
+https://stackoverflow.com/questions/5439366/how-to-suppress-all-output-of-diff-in-shell-scripting
+
+https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+
+https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php
+
+https://stackoverflow.com/questions/41506831/check-if-a-filename-has-a-string-in-it
